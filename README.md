@@ -49,6 +49,7 @@ A curated list of awesome tools I used.
 - 酷我 K3。主力出门使用的蓝牙耳机，选择的原因是非入耳式 + 便宜
 - ***已退货*** QCY T1S。入耳式戴起来有点难受，信号有时会断
 - Beats Wireless Solo。买电脑送的，夹头，超级紧。目前吃灰
+- realme Buds Air。白色，外观高仿 AirPods，做工一般，游戏模式延迟尚可，准备进化为主力出门耳机
 
 ### 主机
 
@@ -57,13 +58,14 @@ A curated list of awesome tools I used.
 
 ### 手柄
 
-- Switch Pro。Switch 主力，左摇杆有点推不到底了。 https://www.iwyvi.com/joystick/switch-pro-review/
+- Switch Pro。Switch 主力，左摇杆有点推不到底了（后来喷了 WD-40，目测成功续命了一波）。 https://www.iwyvi.com/joystick/switch-pro-review/
 - DS4。PS4 主力，加了一个（可能是山寨的 Kontrolfreek）摇杆增高帽
 - hori ngc 手柄。为了玩大乱斗买的，结果玩大乱斗还是被虐。 https://www.iwyvi.com/joystick/hori-ngc-controller-review/
 - 八位堂 SF30Pro。娱乐手柄。 https://www.iwyvi.com/joystick/8bitdo-gamepad-review/
 - Steam 手柄。 Windows 主力，自从升级支持蓝牙以后就完美了。 https://www.iwyvi.com/joystick/steam-controller-review/
 - 八位堂 Lite 中国红限定。 摇杆改成了十字键，号称永不摇杆漂移的手柄
 - 八位堂 Zero。超级小的手柄，用于解压？
+- 八位堂 Zero 2。一代的升级版，可以支持 Switch，手感和一代差不多
 
 ### 手机
 
@@ -94,7 +96,7 @@ A curated list of awesome tools I used.
 
 ### 手环
 
-- 黑加
+- 黑加。主力，支持公交卡比较方便，开通了京津冀交通联合卡
 - WeLoop Now2。目前已经不用了，不过目测没什么损耗
 
 ### 投影仪
