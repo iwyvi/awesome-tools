@@ -119,13 +119,15 @@ A curated list of awesome tools I used.
 
 以下均为 VS Code 扩展，语言扩展不包含在内
 
+- Better Comments
 - Bracket Pair Colorizer. 括号着色
 - Code Runner
-- Code Time. 本地记一下写代码的时间
+- <del>Code Time</del>. 本地记一下写代码的时间，已经弃用了
 - Color Highlight
 - ESLint
 - Git History. 主力看 Git 记录，因为可以编辑器内一键查看
 - GitLens. 偶尔看看行和文件记录
+- ident-rainbow. 彩色缩进
 - Live Server
 - Prettier
 - Project Manager
@@ -173,8 +175,8 @@ MacOS 全局浅色主题
 
 ### 浏览器
 
-- Chrome. 主力
-- Microsoft Edge Canary. Chromium 版 edge，意外的好用，选择 canary 版是因为当时只有这个版本，然后一直也没有换成正式版
+- Chrome. 曾经的主力
+- Microsoft Edge Canary. Chromium 版 edge，意外的好用，选择 canary 版是因为当时只有这个版本，然后一直也没有换成正式版，目前已成为主力浏览器，可以较为方便的多终端同步数据
 - Firefox
 - Safari
 - Vivaldi
@@ -186,6 +188,7 @@ MacOS 全局浅色主题
   - v2ex 扁平化风格. https://userstyles.org/styles/128987/v2ex
   - Tieba - Maverick 2018. https://userstyles.org/styles/124770/tieba-maverick-2018
   - weibo_v6. 这个作者似乎不维护了，也没有在线地址
+  - 谷歌多栏卡片搜索. 自改样式. http://userstyles.org/styles/180762
 - Session Buddy. 用于存标签页，可是我本身不怎么喜欢开大量标签页，所以这个没怎么用
 - FireShot. 网页截图
 - Tampermonkey
@@ -196,8 +199,9 @@ MacOS 全局浅色主题
 - v2ex plus
 - Adblock Plus
 - Octolinker
-- Octotree
+- <del>Octotree</del> 这个不太好用
 - JSON Formatter
+- Wappalyzer. 查看网站技术栈
 
 还有几个用于开发的插件
 
@@ -225,13 +229,14 @@ MacOS 全局浅色主题
 
 只列出了已购入正版或有免费版的软件
 
-- Enpass. 主力密码管理，因为桌面端主要功能免费，所以目前只买了 Android 版，iOS 上手输或者 QQ 发密码（奇怪的操作）
+- Enpass. 主力密码管理，<del>因为桌面端主要功能免费，所以目前只买了 Android 版，iOS 上手输或者 QQ 发密码（奇怪的操作）</del>. 这个目测改成买断制了，之前买的安卓版可以绑定账号以后全平台享受服务了.
 - Bartender 3. 隐藏 Mac 状态栏多余图标，合买
 - Mos. 修改鼠标滚动缓动
 - Cinch. 窗口管理，未授权版
 - Spark. 主力邮件客户端
 - SlowQuitApps. 防止 Cmd + Q 直接退出应用
 - Snipaste. 主要用于贴图
+- Itsycal. 状态栏日历
 
 ## 软件（移动端）
 
@@ -259,6 +264,7 @@ MacOS 全局浅色主题
 - 夸克浏览器. 主力浏览器，颜值高，但是 webview 版本太老了
 - Via. 曾经主力浏览器
 - Chrome. 学习新技术用
+- Edge. 因为可以和电脑同步，所以偶尔也用用它，移动端不是很好用
 
 ## 服务 / 会员 / 订阅
 
@@ -277,7 +283,7 @@ MacOS 全局浅色主题
 
 - QQ 会员
 - ***已过期*** Switch Online
-- PS4 Plus 港服
+- ***已过期*** PS4 Plus 港服
 - 网易UU加速器会员
 - 爱奇艺会员. （买京东会员送的）
 - 京东 plus 会员
