@@ -151,7 +151,7 @@ A curated list of awesome tools I used.
 
 ### 主题配色
 
-MacOS 全局浅色主题
+macOS 全局浅色主题
 
 #### 编辑器
 
