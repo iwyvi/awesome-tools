@@ -39,17 +39,17 @@ A curated list of awesome tools I used.
 
 - 雷蛇那伽梵蛇进化版
 - ***已坏*** 雷蛇那伽梵蛇 2014. 二手鼠标，侧键不怎么舒服，右键一直不太舒服，自己换过两次微动
-- 雷蛇炼狱蝰蛇
+- 雷蛇炼狱蝰蛇. 家里使用
 - ThinkPad 无线鼠标. 实习发的
 
 ### 耳机
 
 - Bose QC35 II
 - 小米圈铁 Pro. 主力入耳式有线
-- 酷我 K3. 主力出门使用的蓝牙耳机，选择的原因是非入耳式 + 便宜
+- 酷我 K3. <del>主力出门使用的蓝牙耳机，</del>选择的原因是非入耳式 + 便宜
 - ***已退货*** QCY T1S. 入耳式戴起来有点难受，信号有时会断
 - Beats Wireless Solo. 买电脑送的，夹头，超级紧。目前吃灰
-- realme Buds Air. 白色，外观高仿 AirPods，做工一般，游戏模式延迟尚可，准备进化为主力出门耳机
+- realme Buds Air. 白色，外观高仿 AirPods，做工一般，游戏模式延迟尚可，主力出门耳机
 
 ### 主机
 
@@ -96,8 +96,12 @@ A curated list of awesome tools I used.
 
 ### 手环
 
-- 黑加. 主力，支持公交卡比较方便，开通了京津冀交通联合卡
+- 黑加. 支持公交卡比较方便，开通了京津冀交通联合卡
 - WeLoop Now2. 目前已经不用了，不过目测没什么损耗
+
+### 手表
+
+- Oppo watch（耀黑）. 由于看起来颜值比较高，且支持快冲，所以购入
 
 ### 投影仪
 
@@ -111,23 +115,27 @@ A curated list of awesome tools I used.
 
 ## 软件（PC）
 
-### 编辑器
+### 编辑器和 IDE
 
 - VS Code. 主力编辑器
+- Android Studio
+- IntelliJ IDEA Ultimate
+- CotEditor. 据说很快，用来打开一些小文件
 
 #### 扩展
 
-以下均为 VS Code 扩展，语言扩展不包含在内
+##### VS Code
 
-- Better Comments
+- <del>Better Comments</del>. 注释着色，因为着色方式不太喜欢，所以不用了
 - Bracket Pair Colorizer. 括号着色
 - Code Runner
 - <del>Code Time</del>. 本地记一下写代码的时间，已经弃用了
-- Color Highlight
+- colorize
+- <del>Color Highlight</del>. 换成上面那个了
 - ESLint
 - Git History. 主力看 Git 记录，因为可以编辑器内一键查看
 - GitLens. 偶尔看看行和文件记录
-- ident-rainbow. 彩色缩进
+- <del>ident-rainbow</del>. 彩色缩进，不太好看，所以删除了
 - Live Server
 - Prettier
 - Project Manager
@@ -212,10 +220,10 @@ macOS 全局浅色主题
 
 ![双拼布局](images/shuangpin-schema.jpg)
 
-- 搜狗输入法. Mac 主力输入法，使用原因是 Mac 上能支持自定义双拼方案的输入法选择很少（搜狗是通过覆盖默认方案实现的）
+- 搜狗输入法. <del>Mac 主力输入法，</del>使用原因是 Mac 上能支持自定义双拼方案的输入法选择很少（搜狗是通过覆盖默认方案实现的）
 - 手心输入法. Windows 主力输入法
 - ***已删除*** 落格输入法. 感觉和我的输入习惯有点八字不合
-- 鼠须管. 最近在尝试使用，已经把自定义双拼布局转了过来。目前存在的问题是词库没有养过相对比较生涩，另外中英文混输和双拼 tab 辅助形码的功能不支持
+- 鼠须管. 主力输入法，已经把自定义双拼布局转了过来。缺点：中英文混输和双拼 tab 辅助形码的功能不支持，缺少一些新词，不支持中英文混输
 
 ### 笔记
 
@@ -229,8 +237,8 @@ macOS 全局浅色主题
 
 ### 代理
 
-- V2rayU. 由于机场协议是 v2ray 所以一直在用这个
-- ClashX. 听说这个可以部署更复杂的规则，所以尝试使用一下 
+- V2rayU. 由于机场协议是 v2ray 所以一直在用这个，目前已转为 ClashX
+- ClashX. 主力使用
 
 ### 杂项
 
@@ -245,7 +253,7 @@ macOS 全局浅色主题
 - Snipaste. 主要用于贴图
 - Itsycal. 状态栏日历
 
-## 软件（移动端）
+## 软件（移动端 / 安卓）
 
 ### 邮件
 
@@ -273,6 +281,40 @@ macOS 全局浅色主题
 - Chrome. 学习新技术用
 - Edge. 因为可以和电脑同步，所以偶尔也用用它，移动端不是很好用
 
+## 软件（移动端 / iOS）
+
+### 笔记
+
+- GoodNotes. 主力笔记
+- Notability. 辅助笔记，用于记录课堂内容
+- Notion. 配合其他端
+- Nebo
+
+### 绘图
+
+- 概念画板. 主力绘图，主要用来当作草稿本用
+- SketchBook
+- Vectornator
+- Adobe Sketch
+- Adobe Draw
+- Adobe Fresco
+- Painter
+- Procreate
+
+### 词典
+
+- 欧路词典
+
+### 天气
+
+- 我的天气
+
+### 开发相关
+
+- PPHub. GitHub 第三方客户端，很纯净
+- Working Copy. 临时查看 Git 仓库
+- iSH. 终端
+
 ## 服务 / 会员 / 订阅
 
 ### 免费
@@ -289,12 +331,13 @@ macOS 全局浅色主题
 ### 付费
 
 - QQ 会员
-- ***已过期*** Switch Online
+- Switch Online. 为了玩动森又买了一年
 - ***已过期*** PS4 Plus 港服
-- 网易UU加速器会员
+- 网易 UU 加速器会员
 - 爱奇艺会员. （买京东会员送的）
 - 京东 plus 会员
 - bilibili 大会员
 - v2ss
 - Apple Care Protection
 - ***已过期*** 饿了么超级会员
+- 网易云音乐黑胶会员. 5折购入
