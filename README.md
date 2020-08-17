@@ -10,7 +10,7 @@ A curated list of awesome tools I used.
 ### 电脑
 
 - MacBook Pro (13-inch, 2018) i5-8259U/16GB/512GB. 自用电脑，2018 款低配升级内存和硬盘，后购入 Apple Care，目前因为电池鼓包换过一次电池
-- 华硕 N551JK i5-4200H/4+4GB/1TB. 曾经的电脑，目前极卡
+- 华硕 N551JK i5-4200H/4+4GB/1TB. 曾经的电脑，目前极卡，已经不再使用
 
 ### 显示器
 
@@ -32,15 +32,17 @@ A curated list of awesome tools I used.
 ### 键盘
 
 - Ergodone. 自焊二狗蛋，混轴分区压力，键帽混搭，主键区是无刻原厂高度 pbt 键帽。详情可以看 https://www.iwyvi.com/keyboard/ergodone-keyboard/
+- xd84pro. 自焊键盘，混轴分区压力，键帽马里奥红白机 pbt，带 rgb 底灯，装了暖白按键灯
 - ***已卖出*** gh60. 自焊客制化键盘. https://www.iwyvi.com/keyboard/gh60-keyboard/
 - ***已卖出*** 贼鸥87. 超级便宜的有钢板凯华红轴机械键盘，用了快两年，期间出现了一些键无法触发的问题，手动换过好几次轴
 
 ### 鼠标
 
 - 雷蛇那伽梵蛇进化版
+- 雷蛇巴塞利斯蛇V2
 - ***已坏*** 雷蛇那伽梵蛇 2014. 二手鼠标，侧键不怎么舒服，右键一直不太舒服，自己换过两次微动
 - 雷蛇炼狱蝰蛇. 家里使用
-- ThinkPad 无线鼠标. 实习发的
+- ThinkPad 无线鼠标. 实习发的，已经送人
 
 ### 耳机
 
@@ -50,6 +52,7 @@ A curated list of awesome tools I used.
 - ***已退货*** QCY T1S. 入耳式戴起来有点难受，信号有时会断
 - Beats Wireless Solo. 买电脑送的，夹头，超级紧。目前吃灰
 - realme Buds Air. 白色，外观高仿 AirPods，做工一般，游戏模式延迟尚可，主力出门耳机
+- 水月雨银色飞船. 家里用的有线耳机
 
 ### 主机
 
@@ -87,7 +90,7 @@ A curated list of awesome tools I used.
 ### 路由器
 
 - 荣耀路由X2. 主力路由器，没什么特点吧，稍微有点大
-- Au home. 体积很小的一个路由器，支持 5GHz
+- Au home. 体积很小的一个路由器，支持 5GHz，已经找不到了
 - 网易 UU 加速盒. 买来用于主机加速，这样就不需要电脑开加速器了
 
 ### Kindle
@@ -141,6 +144,7 @@ A curated list of awesome tools I used.
 - Project Manager
 - Settings Sync
 - stylelint
+- Todo Tree
 - WakaTime. 主力记录代码时间
 
 ### 终端
@@ -332,12 +336,12 @@ macOS 全局浅色主题
 
 - QQ 会员
 - Switch Online. 为了玩动森又买了一年
-- ***已过期*** PS4 Plus 港服
+- PS4 Plus 港服
 - 网易 UU 加速器会员
 - 爱奇艺会员. （买京东会员送的）
 - 京东 plus 会员
 - bilibili 大会员
 - v2ss
 - Apple Care Protection
-- ***已过期*** 饿了么超级会员
+- 饿了么超级会员
 - 网易云音乐黑胶会员. 5折购入
