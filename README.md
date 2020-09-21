@@ -15,8 +15,7 @@ A curated list of awesome tools I used.
 ### 显示器
 
 - LG 27UD58. 27 寸 4K 显示器，目前的主力显示器，当时购入的原因是最便宜的 4K 显示器。有两个 HDMI 一个 DP 接口
-
-- BenQ EW2445ZH. 23.8 寸 1080P 显示器，曾经的主力显示器，目前当副屏用。有两个 HDMI 和一个 VGA 接口
+- ***已不使用***BenQ EW2445ZH. 23.8 寸 1080P 显示器，曾经的主力显示器，目前当副屏用。有两个 HDMI 和一个 VGA 接口
 
 ### 扩展坞和线材
 
@@ -72,6 +71,7 @@ A curated list of awesome tools I used.
 
 ### 手机
 
+- 小米 10 ultra 8GB/256GB
 - 魅族 16s 6GB/128GB. 买了就降价 sad
 - 一加 3T 6GB/64GB. 用了两年以后电池极差 + 发热严重，期间手动换了一次淘宝上的黑皮电池
 - 联想乐檬 K3 Note 2GB/16GB
@@ -86,6 +86,7 @@ A curated list of awesome tools I used.
 
 - 联想口红电源 45W. 平时出门带着的电源，比较小
 - 小米移动电源3 高配版. 20000mAh，支持各种快充协议，出门可以给电脑充电，还可以当 HUB，虽然几乎没用过这个功能
+- ***已退货*** 努比亚氘锋 65W 单C口. 我拿到的这个使用 pd 协议充电时总是 15 分钟左右就断连，需要重新插拔
 
 ### 路由器
 
@@ -109,6 +110,7 @@ A curated list of awesome tools I used.
 ### 投影仪
 
 - ***已退货*** 当贝 C1. 体积较大，整体也比较重，不是很适合便携使用；720P投影，清晰度还行，亮度白天不拉窗帘用不了。退货的主要问题是风扇声音太大了
+- 小米投影仪青春版2. 比起当贝，这个声音小了很多，正常使用几乎听不见风扇声；1080P，支持侧投，亮度也是需要拉窗帘
 
 ### 杂项
 
@@ -189,7 +191,8 @@ macOS 全局浅色主题
 ### 浏览器
 
 - Chrome. 曾经的主力
-- Microsoft Edge Canary. Chromium 版 edge，意外的好用，选择 canary 版是因为当时只有这个版本，然后一直也没有换成正式版，目前已成为主力浏览器，可以较为方便的多终端同步数据
+- Microsoft Edge Canary. Chromium 版 edge，意外的好用，<del>选择 canary 版是因为当时只有这个版本，然后一直也没有换成正式版，目前已成为主力浏览器，可以较为方便的多终端同步数据</del>
+- Microsoft Edge. 主力浏览器，不用 Canary 版本是因为某次更新后，只要打开网页就卡好几秒
 - Firefox
 - Safari
 - Vivaldi
@@ -261,8 +264,9 @@ macOS 全局浅色主题
 
 ### 邮件
 
-- Microsoft Outlook. 主力邮件客户端，支持 Exchange 协议
+- Microsoft Outlook. <del>主力邮件客户端</del>，支持 Exchange 协议
 - 极邮. 曾经的主力邮件客户端，好像不更新了，不支持 Android 新版
+- 小米自带邮件客户端. 主力邮件客户端，Microsoft Outlook 在 MIUI 上收不到推送，不知道原因
 
 ### 音乐播放器
 
@@ -312,6 +316,7 @@ macOS 全局浅色主题
 ### 天气
 
 - 我的天气
+- 几何天气
 
 ### 开发相关
 
@@ -334,7 +339,7 @@ macOS 全局浅色主题
 
 ### 付费
 
-- QQ 会员
+- ***已过期***QQ 会员
 - Switch Online. 为了玩动森又买了一年
 - PS4 Plus 港服
 - 网易 UU 加速器会员
