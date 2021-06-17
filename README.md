@@ -25,7 +25,7 @@ A curated list of awesome tools I used.
   - 显卡: 影驰 RTX3080 GAMER
   - 散热: 九州风神阿萨辛3
   - 机箱: 先马鲁班3
-  - 机箱风扇: 雅俊 GF12
+  - 机箱风扇: 雅俊 GF12 ✖️️ 3, 利民 TL-R12A
 
 > 记录：阿萨辛3风扇在这个配置下有点尴尬，在散热方面是足够了，但是稍微有点高，已经略微顶住机箱侧板了；且风扇太大，内存被全部挡住了，有了马甲灯也看不到，而且因为内存马甲的问题，内存上面的散热部分安装不下 14 寸的风扇，只能把 12 寸的机箱风扇安到上面。
 
@@ -43,7 +43,7 @@ A curated list of awesome tools I used.
 - 绿联一拖四扩展坞. 带电源的扩展坞
 - 山泽 Type-C 转 DP 线. 用于连接那台 4K 显示器，可以到 60HZ。<del>存在的问题是少数时候显示器上不显示内容，需要重新插拔线或者开关显示器才能正常，不知道是哪一方的问题</del>（目前没有遇到过这个问题了）
 - ***已退货*** 戴尔 DA300. 退货原因：DP接口在我的 4K 显示器上不显示东西
-- 谷歌音频转换器. 用于给魅族 16s 转有线耳机，效果一般，（据说）电话时对方有杂音
+- ***找不到了*** 谷歌音频转换器. 用于给魅族 16s 转有线耳机，效果一般，（据说）电话时对方有杂音
 - 网易智造网线转换器. 购于闲鱼
 
 ### 键盘
@@ -92,18 +92,20 @@ A curated list of awesome tools I used.
 
 - 小米 10 ultra 黑色 12GB/256GB
 - ***已卖出*** 魅族 16s 6GB/128GB. 买了就降价 sad
-- ***已不使用*** 一加 3T 6GB/64GB. 用了两年以后电池极差 + 发热严重，期间手动换了一次淘宝上的黑皮电池
+- ***已送人*** 一加 3T 6GB/64GB. 用了两年以后电池极差 + 发热严重，期间手动换了一次淘宝上的黑皮电池
 - ***已不使用*** 联想乐檬 K3 Note 2GB/16GB
 - ***已不使用*** 诺基亚 Lumia 525. 第一款手机，改机型升到 wp10
 
 ### 平板
 
 - iPad Air 2019 64GB
-- ***已不使用*** 昂达 v820W. 目前已经变砖，因为某次重置系统后电源驱动挂了充不进去电，然后现在没电开不了机了
+- ***已扔*** 昂达 v820W. 目前已经变砖，因为某次重置系统后电源驱动挂了充不进去电，然后现在没电开不了机了
 
 ### 路由器
 
-- 荣耀路由X2. 主力路由器，没什么特点吧，稍微有点大
+- NanoPi R2S. 软路由挂 clash
+- Redmi AX5
+- ***已不使用*** 荣耀路由X2. 主力路由器，没什么特点吧，稍微有点大
 - ***已不使用*** Au home. 体积很小的一个路由器，支持 5GHz，已经找不到了
 - 网易 UU 加速盒. 买来用于主机加速，这样就不需要电脑开加速器了
 
@@ -146,7 +148,7 @@ A curated list of awesome tools I used.
 
 - VS Code. 主力编辑器
 - Android Studio
-- IntelliJ IDEA Ultimate
+- IntelliJ IDEA
 - CotEditor. 据说很快，用来打开一些小文件
 
 #### 扩展
@@ -159,6 +161,7 @@ A curated list of awesome tools I used.
 - <del>Code Time</del>. 本地记一下写代码的时间，已经弃用了
 - colorize
 - <del>Color Highlight</del>. 换成上面那个了
+- Code Spell Checker
 - ESLint
 - Git History. 主力看 Git 记录，因为可以编辑器内一键查看
 - GitLens. 偶尔看看行和文件记录
@@ -181,6 +184,7 @@ A curated list of awesome tools I used.
 
 ### 编程字体
 
+- Lotion. 目前主要在用这个字体
 - Isovka ss01. 主力编辑器字体，开启连字。这个字体的特点是很瘦，同样的屏幕大小可以显示更多内容
 - Fira Code. 主力终端字体
 - Cascadia Code. 最近尝试换新花样，将终端字体设为了这个
@@ -232,8 +236,6 @@ macOS 全局浅色主题
 - Tampermonkey
 - 京价保
 - SwitchyOmega
-- 百度网盘助手. 最近似乎失效了
-- Ehance Steam. 自从买了 mac 就没怎么上过 steam 了
 - v2ex plus
 - Adblock Plus
 - Octolinker
@@ -303,7 +305,7 @@ macOS 全局浅色主题
 
 #### 本地
 
-- 魅族自带播放器. 意外的好用
+- ***已不使用*** 魅族自带播放器. 意外的好用
 - Retro Music. 曾经的主力，颜值较高
 
 ### 浏览器
@@ -364,7 +366,7 @@ macOS 全局浅色主题
 ### 付费
 
 - ***已过期*** QQ 会员
-- Switch Online. 为了玩动森又买了一年
+- ***已过期*** Switch Online. 为了玩动森又买了一年
 - PS4 Plus 港服
 - 网易 UU 加速器会员
 - 爱奇艺会员. （买京东会员送的）
@@ -374,3 +376,5 @@ macOS 全局浅色主题
 - Apple Care Protection
 - 饿了么超级会员
 - 网易云音乐黑胶会员. 5折购入
+- 百度网盘会员
+- 淘宝 88VIP
