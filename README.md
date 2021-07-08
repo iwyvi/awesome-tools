@@ -22,6 +22,7 @@ A curated list of awesome tools I used.
   - 硬盘:
     - 西部数据 SN850 500G
     - 西部数据 SN550 1T
+    - 西部数据 紫盘 4T
   - 显卡: 影驰 RTX3080 GAMER
   - 散热: 九州风神阿萨辛3
   - 机箱: 先马鲁班3
@@ -169,7 +170,6 @@ A curated list of awesome tools I used.
 - Live Server
 - Prettier
 - Project Manager
-- Settings Sync
 - stylelint
 - Todo Tree
 - WakaTime. 主力记录代码时间
@@ -197,6 +197,7 @@ macOS 全局浅色主题
 
 - Chinolor. 自制 VS Code 主题. https://marketplace.visualstudio.com/items?itemName=iwyvi.chinolor
 - Material Icon Theme. VS Code 图标主题
+- Fluent Icons
 
 #### 终端
 
@@ -242,6 +243,8 @@ macOS 全局浅色主题
 - <del>Octotree</del> 这个不太好用
 - JSON Formatter
 - Wappalyzer. 查看网站技术栈
+- Infinity 新标签页
+- v2ex plus
 
 还有几个用于开发的插件
 
@@ -285,6 +288,7 @@ macOS 全局浅色主题
 - SlowQuitApps. 防止 Cmd + Q 直接退出应用
 - Snipaste. 主要用于贴图
 - Itsycal. 状态栏日历
+- Eagle. 收集素材和作品
 
 ## 软件（移动端 / 安卓）
 
@@ -329,11 +333,7 @@ macOS 全局浅色主题
 - 概念画板. 主力绘图，主要用来当作草稿本用
 - SketchBook
 - Vectornator
-- Adobe Sketch
-- Adobe Draw
-- Adobe Fresco
 - Painter
-- Procreate
 
 ### 词典
 
