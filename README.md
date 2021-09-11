@@ -121,7 +121,8 @@ A curated list of awesome tools I used.
 
 ### 手表
 
-- Oppo watch（耀黑）. 由于看起来颜值比较高，且支持快冲，所以购入
+- ***已回收*** Oppo watch（46mm，耀黑）. 由于看起来颜值比较高，且支持快冲，所以购入
+- Oppo Watch 2（42mm，蓝牙版）. 二代升级比较大，续航更长，性能更高，所以就把一代官方回收了。由于没有 esim 的需求，所以选择了蓝牙版
 
 ### 投影仪
 
@@ -157,7 +158,7 @@ A curated list of awesome tools I used.
 ##### VS Code
 
 - <del>Better Comments</del>. 注释着色，因为着色方式不太喜欢，所以不用了
-- Bracket Pair Colorizer. 括号着色
+- <del>Bracket Pair Colorizer</del>. 括号着色。官方支持这个功能了，所以不再用插件了
 - Code Runner
 - <del>Code Time</del>. 本地记一下写代码的时间，已经弃用了
 - colorize
@@ -172,7 +173,7 @@ A curated list of awesome tools I used.
 - Project Manager
 - stylelint
 - Todo Tree
-- WakaTime. 主力记录代码时间
+- WakaTime. 主力记录代码时间. https://wakatime.com/@iwyvi
 
 ### 终端
 
@@ -230,7 +231,7 @@ macOS 全局浅色主题
   - 百度多栏卡片搜索. 自改样式. https://userstyles.org/styles/158844/theme
   - v2ex 扁平化风格. https://userstyles.org/styles/128987/v2ex
   - Tieba - Maverick 2018. https://userstyles.org/styles/124770/tieba-maverick-2018
-  - weibo_v6. 这个作者似乎不维护了，也没有在线地址
+  - <del>weibo_v6</del>. 这个作者似乎不维护了，也没有在线地址。微博更新了视觉后就不用了
   - 谷歌多栏卡片搜索. 自改样式. http://userstyles.org/styles/180762
 - Session Buddy. 用于存标签页，可是我本身不怎么喜欢开大量标签页，所以这个没怎么用
 - FireShot. 网页截图
@@ -360,8 +361,7 @@ macOS 全局浅色主题
 
 ### 付费（目前免费使用）
 
-- Notion 教育版
-- Intellij 教育版
+- ***已不使用*** Intellij 教育版（换用社区版）
 
 ### 付费
 
@@ -369,7 +369,7 @@ macOS 全局浅色主题
 - ***已过期*** Switch Online. 为了玩动森又买了一年
 - PS4 Plus 港服
 - 网易 UU 加速器会员
-- 爱奇艺会员. （买京东会员送的）
+- 爱奇艺星钻会员
 - 京东 plus 会员
 - bilibili 大会员
 - v2ss
