@@ -56,7 +56,7 @@ A curated list of awesome tools I used.
 
 ### 鼠标
 
-- 雷蛇那伽梵蛇进化版
+- 雷蛇那伽梵蛇进化版. 因为原来的微动双击了，换了左右键的微动，TTC 防尘金
 - 雷蛇巴塞利斯蛇V2
 - ***已坏*** 雷蛇那伽梵蛇 2014. 二手鼠标，侧键不怎么舒服，右键一直不太舒服，自己换过两次微动
 - 雷蛇炼狱蝰蛇. 家里使用
@@ -79,15 +79,15 @@ A curated list of awesome tools I used.
 
 ### 手柄
 
-- Switch Pro. Switch 主力，左摇杆有点推不到底了，现在喷了 WD-40，目测成功续命了一波. https://www.iwyvi.com/joystick/switch-pro-review/
-- DS4. PS4 主力，加了一个（可能是山寨的 Kontrolfreek）摇杆增高帽
+- Switch Pro. Switch 主力，左摇杆有点推不到底了，现在喷了 WD-40，目测成功续命了一波. (2021-11) 更换了左侧摇杆的电位器，但是在系统里各个方向都推不倒底，所以还用砂纸打磨了摇杆外的塑料圈 https://www.iwyvi.com/joystick/switch-pro-review/
+- DS4. PS4 主力，<del>加了一个（可能是山寨的 Kontrolfreek）摇杆增高帽</del>
 - hori ngc 手柄. 为了玩大乱斗买的，结果玩大乱斗还是被虐. https://www.iwyvi.com/joystick/hori-ngc-controller-review/
 - 八位堂 SF30Pro. 娱乐手柄. https://www.iwyvi.com/joystick/8bitdo-gamepad-review/
-- Steam 手柄.  Windows 主力，自从升级支持蓝牙以后就完美了. https://www.iwyvi.com/joystick/steam-controller-review/
+- Steam 手柄.  <del>Windows 主力</del>，自从升级支持蓝牙以后就完美了. https://www.iwyvi.com/joystick/steam-controller-review/
 - 八位堂 Lite 中国红限定.  摇杆改成了十字键，号称永不摇杆漂移的手柄
 - 八位堂 Zero. 超级小的手柄，用于解压？
 - 八位堂 Zero 2. 一代的升级版，可以支持 Switch，手感和一代差不多
-- Xbox 手柄 2020 款冰雪白. 十字键感觉是贴片微动，整体手感尚可
+- Xbox 手柄 2020 款冰雪白. Windows 主力，十字键感觉是贴片微动，整体手感尚可
 
 ### 手机
 
@@ -143,6 +143,7 @@ A curated list of awesome tools I used.
 - ***已不使用*** 高漫 1060PRO 数位板. 效果极差，当时买来只是为了体验一下数位板什么感觉，然后就一直吃灰了
 - Acasis 采集卡. 效果较差，偏色
 - 米家显示器挂灯
+- Oculus quest 2. 体验还可以，配了贴片眼镜，另外买了三方头带和面罩
 
 ## 软件（PC）
 
@@ -192,7 +193,8 @@ A curated list of awesome tools I used.
 
 ### 主题配色
 
-macOS 全局浅色主题
+- MacOS 自动主题
+- Windows 浅色主题
 
 #### 编辑器
 
@@ -290,6 +292,7 @@ macOS 全局浅色主题
 - Snipaste. 主要用于贴图
 - Itsycal. 状态栏日历
 - Eagle. 收集素材和作品
+- Wallpaper engine. Steam 版
 
 ## 软件（移动端 / 安卓）
 
