@@ -34,7 +34,7 @@ A curated list of awesome tools I used.
 
 - LG 27UD58. 27 寸 4K 显示器，副显示器，2019年购入，当时购入的原因是最便宜的 4K 显示器。有两个 HDMI 一个 DP 接口
 - LG 27UL550-W. 27 寸 4K 显示器，放在公司，也是廉价显示器，因为不关注色彩，只用来写代码，所以还是挺值的。也是两个 HDMI 一个 DP 接口，支架支持升降和竖屏，不过电源是外置的
-- KTC M27P20. 27 寸 4K Mini Led 显示器，家里的主力显示器。支持 144hz 和 HDR1000，显示效果比较好，不过文字边缘更容易显示彩色，怀疑是像素点排列的原因。外置电源，个头很大，有时还有啸叫。
+- KTC M27P20. 27 寸 4K Mini Led 显示器，家里的主力显示器。支持 144hz 和 HDR1000，显示效果比较好，不过文字边缘更容易显示彩色，怀疑是像素点排列的原因。外置电源，个头很大，<del>有时还有啸叫</del>已更换电源，目前基本没有声音了。
 - 淘宝 14寸 2K IPS 显示器. 当副屏使用，可视角度不是特别高。
 - ***已不使用*** BenQ EW2445ZH. 23.8 寸 1080P 显示器，曾经的主力显示器，目前当副屏用。有两个 HDMI 和一个 VGA 接口
 
@@ -66,13 +66,14 @@ A curated list of awesome tools I used.
 
 ### 耳机
 
-- Bose QC35 II
+- ***已送人*** Bose QC35 II
 - 小米圈铁 Pro. 主力入耳式有线
 - ***已不使用*** 酷我 K3. <del>主力出门使用的蓝牙耳机，</del>选择的原因是非入耳式 + 便宜
 - ***已退货*** QCY T1S. 入耳式戴起来有点难受，信号有时会断
 - ***已不使用*** Beats Wireless Solo. 买电脑送的，夹头，超级紧。目前吃灰
 - realme Buds Air. 白色，外观高仿 AirPods，做工一般，游戏模式延迟尚可，主力出门耳机
 - 水月雨银色飞船. 家里用的有线耳机
+- Redmi Air Dots3. 降噪效果可以，延迟稍高
 
 ### 主机
 
@@ -146,15 +147,16 @@ A curated list of awesome tools I used.
 - Acasis 采集卡. 效果较差，偏色
 - 米家显示器挂灯
 - Oculus quest 2. 体验还可以，配了贴片眼镜，另外买了三方头带和面罩
+- 米家激光测距仪
 
 ## 软件（PC）
 
 ### 编辑器和 IDE
 
 - VS Code. 主力编辑器
-- Android Studio
-- IntelliJ IDEA
-- CotEditor. 据说很快，用来打开一些小文件
+- ***暂不使用*** Android Studio
+- ***暂不使用*** IntelliJ IDEA
+- ***暂不使用*** CotEditor. 据说很快，用来打开一些小文件
 
 #### 扩展
 
@@ -183,6 +185,7 @@ A curated list of awesome tools I used.
 - iTerm2. 主力终端
 - Hyper. 偶尔看看更新得怎么样了
 - eDex-UI. 用于偶尔装逼用
+- Warp. 体验感觉还不错
 
 - zsh + oh-my-zsh
 
@@ -195,7 +198,7 @@ A curated list of awesome tools I used.
 
 ### 主题配色
 
-- MacOS 自动主题
+- MacOS 浅色主题
 - Windows 浅色主题
 
 #### 编辑器
@@ -216,7 +219,7 @@ A curated list of awesome tools I used.
 - neofetch
 - m-cli. 这个几乎没怎么用过
 
-#### yarn
+#### npm
 
 - http-server. 静态文件服务器
 
@@ -227,23 +230,24 @@ A curated list of awesome tools I used.
 - Microsoft Edge. 主力浏览器，不用 Canary 版本是因为某次更新后，只要打开网页就卡好几秒
 - Firefox
 - Safari
-- Vivaldi
+- ***已不使用*** Vivaldi
 
 #### 浏览器扩展
 
 - Stylus. 由 Stylish 换过来
-  - 百度多栏卡片搜索. 自改样式. https://userstyles.org/styles/158844/theme
+  - 百度多栏卡片搜索. 自改样式. https://userstyles.world/style/3156
   - v2ex 扁平化风格. https://userstyles.org/styles/128987/v2ex
   - Tieba - Maverick 2018. https://userstyles.org/styles/124770/tieba-maverick-2018
   - <del>weibo_v6</del>. 这个作者似乎不维护了，也没有在线地址。微博更新了视觉后就不用了
-  - 谷歌多栏卡片搜索. 自改样式. http://userstyles.org/styles/180762
+  - 谷歌多栏卡片搜索. 自改样式. https://userstyles.world/style/3155
 - Session Buddy. 用于存标签页，可是我本身不怎么喜欢开大量标签页，所以这个没怎么用
 - FireShot. 网页截图
 - Tampermonkey
 - 京价保
-- SwitchyOmega
+- <del>SwitchyOmega</del> 代理通过软路由控制
 - v2ex plus
-- Adblock Plus
+- <del>Adblock Plus</del>
+- uBlock Origin
 - Octolinker
 - <del>Octotree</del> 这个不太好用
 - JSON Formatter
@@ -371,15 +375,16 @@ A curated list of awesome tools I used.
 ### 付费
 
 - ***已过期*** QQ 会员
-- ***已过期*** Switch Online. 为了玩动森又买了一年
-- PS4 Plus 港服
+- Switch Online
+- ***已过期*** PS4 Plus 港服
 - 网易 UU 加速器会员
 - 爱奇艺星钻会员
 - 京东 plus 会员
 - bilibili 大会员
 - v2ss
-- Apple Care Protection
+- 忍者云
+- ***已过期*** Apple Care Protection
 - 饿了么超级会员
 - 网易云音乐黑胶会员. 5折购入
-- 百度网盘会员
+- ***已过期*** 百度网盘会员
 - 淘宝 88VIP
