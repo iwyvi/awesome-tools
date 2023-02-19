@@ -61,7 +61,7 @@ A curated list of awesome tools I used.
 - 雷蛇那伽梵蛇进化版. 因为原来的微动双击了，换了左右键的微动，TTC 防尘金
 - 雷蛇巴塞利斯蛇V2
 - ***已坏*** 雷蛇那伽梵蛇 2014. 二手鼠标，侧键不怎么舒服，右键一直不太舒服，自己换过两次微动
-- 雷蛇炼狱蝰蛇. 家里使用
+- ***已不使用*** 雷蛇炼狱蝰蛇. 家里使用
 - ***已不使用*** ThinkPad 无线鼠标. 实习发的，已经送人
 
 ### 耳机
@@ -91,10 +91,12 @@ A curated list of awesome tools I used.
 - 八位堂 Zero. 超级小的手柄，用于解压？
 - 八位堂 Zero 2. 一代的升级版，可以支持 Switch，手感和一代差不多
 - Xbox 手柄 2020 款冰雪白. Windows 主力，十字键感觉是贴片微动，整体手感尚可
+- 八位堂猎户座真无线手柄（NS版）. Switch 新主力，整体手感不错，外观也挺好看；带有两个背键，可以自定义配置；不支持 HD 振动，Switch 上用可以把振动调到最低档位
 
 ### 手机
 
-- 小米 10 ultra 黑色 12GB/256GB
+- iPhone 14 pro 白色 256GB
+- 小米 10 ultra 黑色 12GB/256GB. 已成为测试机
 - ***已卖出*** 魅族 16s 6GB/128GB. 买了就降价 sad
 - ***已送人*** 一加 3T 6GB/64GB. 用了两年以后电池极差 + 发热严重，期间手动换了一次淘宝上的黑皮电池
 - ***已不使用*** 联想乐檬 K3 Note 2GB/16GB
@@ -108,10 +110,11 @@ A curated list of awesome tools I used.
 ### 路由器
 
 - NanoPi R2S. 软路由挂 clash
-- Redmi AX5
+- Redmi AX5400. 支持 UU 加速
+- ***已不使用*** Redmi AX5
 - ***已不使用*** 荣耀路由X2. 主力路由器，没什么特点吧，稍微有点大
 - ***已不使用*** Au home. 体积很小的一个路由器，支持 5GHz，已经找不到了
-- 网易 UU 加速盒. 买来用于主机加速，这样就不需要电脑开加速器了
+- ***已卖出*** 网易 UU 加速盒. 买来用于主机加速，这样就不需要电脑开加速器了
 
 ### Kindle
 
@@ -125,7 +128,8 @@ A curated list of awesome tools I used.
 ### 手表
 
 - ***已回收*** Oppo watch（46mm，耀黑）. 由于看起来颜值比较高，且支持快冲，所以购入
-- Oppo Watch 2（42mm，蓝牙版）. 二代升级比较大，续航更长，性能更高，所以就把一代官方回收了。由于没有 esim 的需求，所以选择了蓝牙版
+- ***已回收*** Oppo Watch 2（42mm，蓝牙版）. 二代升级比较大，续航更长，性能更高，所以就把一代官方回收了。由于没有 esim 的需求，所以选择了蓝牙版
+- Oppo Watch 3 Pro 铂黑. 三代支持屏幕常显，续航也增加了，支持心电图
 
 ### 投影仪
 
@@ -139,6 +143,9 @@ A curated list of awesome tools I used.
 - 摩米士 18w. 支持 PD 和 PE 协议
 - ***已退货*** 努比亚氘锋 65W 单C口. 我拿到的这个使用 pd 协议充电时总是 15 分钟左右就断连，需要重新插拔
 - 小米移动电源3 高配版. 20000mAh，支持各种快充协议，出门可以给电脑充电，还可以当 HUB，虽然几乎没用过这个功能
+- 紫米折叠氮化镓充电器 20W. 给 iPhone 充电使用
+- 小米磁吸充电宝. 带充电底座，比较好看，但是给 iPhone 无线充电时间长了会很烫
+- 小米 55W 无线充电底座. 给小米手机充电还行，给 iPhone 充电似乎只有 5W，连风扇都基本上不工作
 
 ### 杂项
 
@@ -148,6 +155,14 @@ A curated list of awesome tools I used.
 - 米家显示器挂灯
 - Oculus quest 2. 体验还可以，配了贴片眼镜，另外买了三方头带和面罩
 - 米家激光测距仪
+
+### 汽车
+
+- 小鹏 P5 510E
+
+### 出行
+
+- Ninebot One A1. 收的二手车，性能还可以，但是不适合上路，准备再出掉
 
 ## 软件（PC）
 
@@ -182,10 +197,10 @@ A curated list of awesome tools I used.
 
 ### 终端
 
-- iTerm2. 主力终端
+- iTerm2. <del>主力终端</del>
 - Hyper. 偶尔看看更新得怎么样了
 - eDex-UI. 用于偶尔装逼用
-- Warp. 体验感觉还不错
+- Warp. 体验感觉还不错，已成为主力终端
 
 - zsh + oh-my-zsh
 
@@ -231,6 +246,7 @@ A curated list of awesome tools I used.
 - Firefox
 - Safari
 - ***已不使用*** Vivaldi
+- Arc. 外观很好看，侧栏 tab 也很好用。但是资源占用稍微有点多，而且目前不支持地址栏选择搜索引擎
 
 #### 浏览器扩展
 
@@ -281,14 +297,14 @@ A curated list of awesome tools I used.
 ### 代理
 
 - ***已不使用*** V2rayU. 由于机场协议是 v2ray 所以一直在用这个，目前已转为 ClashX
-- ClashX. 主力使用
+- ClashX
 - Clash for Windows
 
 ### 杂项
 
 只列出了已购入正版或有免费版的软件
 
-- Enpass. 主力密码管理，<del>因为桌面端主要功能免费，所以目前只买了 Android 版，iOS 上手输或者 QQ 发密码（奇怪的操作）</del>. 这个目测改成买断制了，之前买的安卓版可以绑定账号以后全平台享受服务了.
+- Enpass. 主力密码管理，<del>因为桌面端主要功能免费，所以目前只买了 Android 版，iOS 上手输或者 QQ 发密码（奇怪的操作）</del>. 这个已经改成买断 + 订阅了，不过因为之前买了安卓版，可以绑定账号以后全平台享受服务.
 - Bartender 3. 隐藏 Mac 状态栏多余图标，合买
 - Bartender 4. 合买
 - Mos. 修改鼠标滚动缓动
@@ -306,7 +322,9 @@ A curated list of awesome tools I used.
 
 - ***已不使用*** Microsoft Outlook. <del>主力邮件客户端</del>，支持 Exchange 协议；在 MIUI 上收不到推送，不知道原因
 - ***已不使用*** 极邮. 曾经的主力邮件客户端，好像不更新了，不支持 Android 新版
-- 小米自带邮件客户端. 主力邮件客户端
+- 小米自带邮件客户端
+- iOS 自带邮件客户端
+- 网易邮箱大师. 公司邮件使用
 
 ### 音乐播放器
 
@@ -315,19 +333,20 @@ A curated list of awesome tools I used.
 - 网易云音乐
 - 搜狗音乐
 - QQ音乐. 主要用来占手机空间
-- 5sing. 偶尔去找找新的古风歌
+- ***已不使用*** 5sing. 偶尔去找找新的古风歌
 
 #### 本地
 
 - ***已不使用*** 魅族自带播放器. 意外的好用
-- Retro Music. 曾经的主力，颜值较高
+- ***已不使用*** Retro Music. 曾经的主力，颜值较高
 
 ### 浏览器
 
-- 夸克浏览器. 主力浏览器，颜值高，但是 webview 版本太老了
-- Via. 曾经主力浏览器
-- Chrome. 学习新技术用
+- ***已不使用*** 夸克浏览器. 主力浏览器，颜值高，但是 webview 版本太老了
+- ***已不使用*** Via. 曾经主力浏览器
+- Chrome
 - Edge. 因为可以和电脑同步，所以偶尔也用用它，移动端不是很好用
+- Safari
 
 ## 软件（移动端 / iOS）
 
@@ -336,14 +355,14 @@ A curated list of awesome tools I used.
 - GoodNotes. 主力笔记
 - Notability. 辅助笔记，用于记录课堂内容
 - Notion. 配合其他端
-- Nebo
+- ***已不使用*** Nebo
 
 ### 绘图
 
 - 概念画板. 主力绘图，主要用来当作草稿本用
-- SketchBook
+- ***已不使用*** SketchBook
 - Vectornator
-- Painter
+- ***已不使用*** Painter
 
 ### 词典
 
@@ -353,6 +372,7 @@ A curated list of awesome tools I used.
 
 - 我的天气
 - 几何天气
+- 彩云天气 Pro
 
 ### 开发相关
 
@@ -378,13 +398,17 @@ A curated list of awesome tools I used.
 - Switch Online
 - ***已过期*** PS4 Plus 港服
 - 网易 UU 加速器会员
-- 爱奇艺星钻会员
+- 爱奇艺会员
 - 京东 plus 会员
 - bilibili 大会员
 - v2ss
 - 忍者云
 - ***已过期*** Apple Care Protection
 - 饿了么超级会员
-- 网易云音乐黑胶会员. 5折购入
+- 网易云音乐黑胶会员. 白嫖到 2027 年
 - ***已过期*** 百度网盘会员
-- 淘宝 88VIP
+- ***已过期*** 淘宝 88VIP
+- 迅雷年费超级会员. 主要用于迅雷快鸟，将 300M 网升级为 500M
+- 联通 PLUS 白银会员. 升级 5G 速率，每月可以兑换会员
+- 小米有品 UP 会员. 还差 4 单退会费
+- 网易严选 Pro 会员. 之前一次活动白嫖的，基本上没买过东西
