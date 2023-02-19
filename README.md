@@ -280,14 +280,15 @@ A curated list of awesome tools I used.
 ![双拼布局](images/shuangpin-schema.jpg)
 
 - 搜狗输入法. <del>Mac 主力输入法，</del>使用原因是 Mac 上能支持自定义双拼方案的输入法选择很少（搜狗是通过覆盖默认方案实现的）
-- 手心输入法. Windows 主力输入法
+- 手心输入法. <del>Windows 主力输入法</del>
 - ***已删除*** 落格输入法. 感觉和我的输入习惯有点八字不合
 - 鼠须管. 主力输入法，已经把自定义双拼布局转了过来。缺点：中英文混输和双拼 tab 辅助形码的功能不支持，缺少一些新词，不支持中英文混输。[查看配置](https://github.com/iwyvi/rime-config)
 
 ### 笔记
 
-- Typora. 偶尔写写 markdown 使用
+- Typora. <del>偶尔写写 markdown 使用，</del>自从开始收费以后就不用了
 - Notion. 目前主力笔记，使用了学生优惠
+- Obsidian
 
 ### 音乐
 
@@ -316,7 +317,7 @@ A curated list of awesome tools I used.
 - Eagle. 收集素材和作品
 - Wallpaper engine. Steam 版
 
-## 软件（移动端 / 安卓）
+## 软件（移动端）
 
 ### 邮件
 
