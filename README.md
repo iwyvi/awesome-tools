@@ -7,10 +7,11 @@ A curated list of awesome tools I used.
 
 ## 硬件与设备
 
-### 电脑
+### 笔记本
 
+- MacBoox Pro (14-inch, 2021) M1 Pro/32GB/1TB. 公司电脑
 - MacBook Pro (13-inch, 2018) i5-8259U/16GB/512GB. 自用电脑，2018 款低配升级内存和硬盘，后购入 Apple Care，目前因为电池鼓包换过一次电池
-- ***已不使用*** 华硕 N551JK i5-4200H/4+4GB/1TB. 曾经的电脑，目前极卡，已经不再使用
+- ***已不使用*** 华硕 N551JK i5-4200H/4+4GB/1TB. 曾经的电脑，已经不再使用
 
 #### 台式机
 
@@ -96,7 +97,7 @@ A curated list of awesome tools I used.
 ### 手机
 
 - iPhone 14 pro 白色 256GB
-- 小米 10 ultra 黑色 12GB/256GB. 已成为测试机
+- ***已卖出*** 小米 10 ultra 黑色 12GB/256GB. 已成为测试机
 - ***已卖出*** 魅族 16s 6GB/128GB. 买了就降价 sad
 - ***已送人*** 一加 3T 6GB/64GB. 用了两年以后电池极差 + 发热严重，期间手动换了一次淘宝上的黑皮电池
 - ***已不使用*** 联想乐檬 K3 Note 2GB/16GB
@@ -153,7 +154,7 @@ A curated list of awesome tools I used.
 - ***已不使用*** 高漫 1060PRO 数位板. 效果极差，当时买来只是为了体验一下数位板什么感觉，然后就一直吃灰了
 - Acasis 采集卡. 效果较差，偏色
 - 米家显示器挂灯
-- Oculus quest 2. 体验还可以，配了贴片眼镜，另外买了三方头带和面罩
+- ***已卖出*** Oculus quest 2. 体验还可以，配了贴片眼镜，另外买了三方头带和面罩
 - 米家激光测距仪
 
 ### 汽车
@@ -226,6 +227,7 @@ A curated list of awesome tools I used.
 
 - Chinolor. 终端里如果要使用需要手动按颜色配
 - agnoster. zsh 主题
+- starship
 
 ### 命令行
 
@@ -287,7 +289,7 @@ A curated list of awesome tools I used.
 ### 笔记
 
 - Typora. <del>偶尔写写 markdown 使用，</del>自从开始收费以后就不用了
-- Notion. 目前主力笔记，使用了学生优惠
+- Notion. 目前主力笔记
 - Obsidian
 
 ### 音乐
@@ -316,6 +318,7 @@ A curated list of awesome tools I used.
 - Itsycal. 状态栏日历
 - Eagle. 收集素材和作品
 - Wallpaper engine. Steam 版
+- LinearMouse. 移除鼠标加速度
 
 ## 软件（移动端）
 
@@ -388,6 +391,7 @@ A curated list of awesome tools I used.
 - OneDrive. 主力网盘，同步照片
 - 坚果云. 存一些配置文件
 - 百度网盘
+- iCloud
 
 ### 付费（目前免费使用）
 
