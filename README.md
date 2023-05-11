@@ -105,7 +105,7 @@ A curated list of awesome tools I used.
 
 ### 平板
 
-- iPad Air 2019 64GB
+- ***已卖出*** iPad Air 2019 64GB
 - ***已扔*** 昂达 v820W. 目前已经变砖，因为某次重置系统后电源驱动挂了充不进去电，然后现在没电开不了机了
 
 ### 路由器
@@ -150,7 +150,7 @@ A curated list of awesome tools I used.
 
 ### 杂项
 
-- Apple Pencil 一代. 略吃灰
+- ***已卖出*** Apple Pencil 一代. 略吃灰
 - ***已不使用*** 高漫 1060PRO 数位板. 效果极差，当时买来只是为了体验一下数位板什么感觉，然后就一直吃灰了
 - Acasis 采集卡. 效果较差，偏色
 - 米家显示器挂灯
@@ -163,7 +163,8 @@ A curated list of awesome tools I used.
 
 ### 出行
 
-- Ninebot One A1. 收的二手车，性能还可以，但是不适合上路，准备再出掉
+- ***已卖出*** Ninebot One A1. 收的二手车，性能还可以，但是不适合上路，准备再出掉
+- 大行 P8. 已改后刹车为永杰 959V
 
 ## 软件（PC）
 
@@ -203,7 +204,7 @@ A curated list of awesome tools I used.
 - eDex-UI. 用于偶尔装逼用
 - Warp. 体验感觉还不错，已成为主力终端
 
-- zsh + oh-my-zsh
+- zsh + <del>oh-my-zsh</del> + starship
 
 ### 编程字体
 
@@ -211,6 +212,7 @@ A curated list of awesome tools I used.
 - Isovka ss01. 主力编辑器字体，开启连字。这个字体的特点是很瘦，同样的屏幕大小可以显示更多内容
 - Fira Code. 主力终端字体
 - Cascadia Code. 最近尝试换新花样，将终端字体设为了这个
+- 霞鹜文楷等宽
 
 ### 主题配色
 
@@ -226,8 +228,6 @@ A curated list of awesome tools I used.
 #### 终端
 
 - Chinolor. 终端里如果要使用需要手动按颜色配
-- agnoster. zsh 主题
-- starship
 
 ### 命令行
 
@@ -248,7 +248,7 @@ A curated list of awesome tools I used.
 - Firefox
 - Safari
 - ***已不使用*** Vivaldi
-- Arc. 外观很好看，侧栏 tab 也很好用。但是资源占用稍微有点多，而且目前不支持地址栏选择搜索引擎
+- Arc. 外观很好看，侧栏 tab 也很好用。但是资源占用稍微有点多，<del>而且目前不支持地址栏选择搜索引擎</del>
 
 #### 浏览器扩展
 
@@ -272,6 +272,7 @@ A curated list of awesome tools I used.
 - Wappalyzer. 查看网站技术栈
 - Infinity 新标签页
 - v2ex plus
+- V2EX Polish
 
 还有几个用于开发的插件
 
@@ -311,7 +312,8 @@ A curated list of awesome tools I used.
 - Bartender 3. 隐藏 Mac 状态栏多余图标，合买
 - Bartender 4. 合买
 - Mos. 修改鼠标滚动缓动
-- Cinch. 窗口管理，未授权版
+- LinearMouse. 关闭鼠标加速度
+- ***已不使用*** Cinch. 窗口管理，未授权版
 - Spark. 主力邮件客户端
 - SlowQuitApps. 防止 Cmd + Q 直接退出应用
 - Snipaste. 主要用于贴图
@@ -326,7 +328,7 @@ A curated list of awesome tools I used.
 
 - ***已不使用*** Microsoft Outlook. <del>主力邮件客户端</del>，支持 Exchange 协议；在 MIUI 上收不到推送，不知道原因
 - ***已不使用*** 极邮. 曾经的主力邮件客户端，好像不更新了，不支持 Android 新版
-- 小米自带邮件客户端
+- ***已不使用*** 小米自带邮件客户端
 - iOS 自带邮件客户端
 - 网易邮箱大师. 公司邮件使用
 
