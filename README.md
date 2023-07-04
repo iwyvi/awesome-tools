@@ -155,7 +155,7 @@ A curated list of awesome tools I used.
 - Acasis 采集卡. 效果较差，偏色
 - 米家显示器挂灯
 - ***已卖出*** Oculus quest 2. 体验还可以，配了贴片眼镜，另外买了三方头带和面罩
-- 米家激光测距仪
+- ***已卖出*** 米家激光测距仪
 
 ### 汽车
 
@@ -248,7 +248,7 @@ A curated list of awesome tools I used.
 - Firefox
 - Safari
 - ***已不使用*** Vivaldi
-- Arc. 外观很好看，侧栏 tab 也很好用。但是资源占用稍微有点多，<del>而且目前不支持地址栏选择搜索引擎</del>
+- Arc. 外观很好看，侧栏 tab 也很好用。但是资源占用稍微有点多，<del>而且目前不支持地址栏选择搜索引擎</del>，mac 端主力浏览器
 
 #### 浏览器扩展
 
@@ -337,7 +337,7 @@ A curated list of awesome tools I used.
 #### 在线
 
 - 网易云音乐
-- 搜狗音乐
+- ***已不使用*** 搜狗音乐
 - QQ音乐. 主要用来占手机空间
 - ***已不使用*** 5sing. 偶尔去找找新的古风歌
 
@@ -405,7 +405,7 @@ A curated list of awesome tools I used.
 - Switch Online
 - ***已过期*** PS4 Plus 港服
 - 网易 UU 加速器会员
-- 爱奇艺会员
+- 爱奇艺白金会员
 - 京东 plus 会员
 - bilibili 大会员
 - v2ss
@@ -414,8 +414,10 @@ A curated list of awesome tools I used.
 - 饿了么超级会员
 - 网易云音乐黑胶会员. 白嫖到 2027 年
 - ***已过期*** 百度网盘会员
-- ***已过期*** 淘宝 88VIP
+- 淘宝 88VIP
 - 迅雷年费超级会员. 主要用于迅雷快鸟，将 300M 网升级为 500M
 - 联通 PLUS 白银会员. 升级 5G 速率，每月可以兑换会员
-- 小米有品 UP 会员. 还差 4 单退会费
+- 小米有品 UP 会员. 还差 2 单退会费
 - 网易严选 Pro 会员. 之前一次活动白嫖的，基本上没买过东西
+- iCloud 50G 订阅
+- QQ 音乐会员，联通 PLUS 兑换
