@@ -13,7 +13,7 @@ A curated list of awesome tools I used.
 - MacBook Pro (13-inch, 2018) i5-8259U/16GB/512GB. 自用电脑，2018 款低配升级内存和硬盘，后购入 Apple Care，目前因为电池鼓包换过一次电池
 - ***已不使用*** 华硕 N551JK i5-4200H/4+4GB/1TB. 曾经的电脑，已经不再使用
 
-#### 台式机
+### 台式机
 
 - 2020-10:
   - 主板: 华硕 B550M-PLUS(WI-FI) 重炮手
@@ -130,7 +130,8 @@ A curated list of awesome tools I used.
 
 - ***已回收*** Oppo watch（46mm，耀黑）. 由于看起来颜值比较高，且支持快冲，所以购入
 - ***已回收*** Oppo Watch 2（42mm，蓝牙版）. 二代升级比较大，续航更长，性能更高，所以就把一代官方回收了。由于没有 esim 的需求，所以选择了蓝牙版
-- Oppo Watch 3 Pro 铂黑. 三代支持屏幕常显，续航也增加了，支持心电图
+- ***已回收*** Oppo Watch 3 Pro 铂黑. 三代支持屏幕常显，续航也增加了，支持心电图
+- Apple Watch S9（GPS版 星光色）
 
 ### 投影仪
 
@@ -147,6 +148,7 @@ A curated list of awesome tools I used.
 - 紫米折叠氮化镓充电器 20W. 给 iPhone 充电使用
 - 小米磁吸充电宝. 带充电底座，比较好看，但是给 iPhone 无线充电时间长了会很烫
 - 小米 55W 无线充电底座. 给小米手机充电还行，给 iPhone 充电似乎只有 5W，连风扇都基本上不工作
+- CUKTECH 67W 三口
 
 ### 杂项
 
@@ -321,6 +323,7 @@ A curated list of awesome tools I used.
 - Eagle. 收集素材和作品
 - Wallpaper engine. Steam 版
 - LinearMouse. 移除鼠标加速度
+- Raycast. 主力启动器
 
 ## 软件（移动端）
 
@@ -353,6 +356,7 @@ A curated list of awesome tools I used.
 - Chrome
 - Edge. 因为可以和电脑同步，所以偶尔也用用它，移动端不是很好用
 - Safari
+- Arc
 
 ## 软件（移动端 / iOS）
 
@@ -383,7 +387,6 @@ A curated list of awesome tools I used.
 ### 开发相关
 
 - PPHub. GitHub 第三方客户端，很纯净
-- Working Copy. 临时查看 Git 仓库
 - iSH. 终端
 
 ## 服务 / 会员 / 订阅
@@ -402,22 +405,22 @@ A curated list of awesome tools I used.
 ### 付费
 
 - ***已过期*** QQ 会员
-- Switch Online
+- ***已过期*** Switch Online
 - ***已过期*** PS4 Plus 港服
 - 网易 UU 加速器会员
 - 爱奇艺白金会员
 - 京东 plus 会员
 - bilibili 大会员
-- v2ss
+- ***已过期*** v2ss
 - 忍者云
 - ***已过期*** Apple Care Protection
 - 饿了么超级会员
 - 网易云音乐黑胶会员. 白嫖到 2027 年
 - ***已过期*** 百度网盘会员
 - 淘宝 88VIP
-- 迅雷年费超级会员. 主要用于迅雷快鸟，将 300M 网升级为 500M
+- 迅雷年费超级会员. 主要用于迅雷快鸟，将 300M 网升级为 500M，但是最近快鸟没有效果了
 - 联通 PLUS 白银会员. 升级 5G 速率，每月可以兑换会员
-- 小米有品 UP 会员. 还差 2 单退会费
+- 小米有品 UP 会员. 还差 1 单退会费
 - 网易严选 Pro 会员. 之前一次活动白嫖的，基本上没买过东西
 - iCloud 50G 订阅
-- QQ 音乐会员，联通 PLUS 兑换
+- ***已过期*** QQ 音乐会员，联通 PLUS 兑换
