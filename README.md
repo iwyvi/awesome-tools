@@ -10,7 +10,7 @@ A curated list of awesome tools I used.
 ### 笔记本
 
 - MacBoox Pro (14-inch, 2021) M1 Pro/32GB/1TB. 公司电脑
-- MacBook Pro (13-inch, 2018) i5-8259U/16GB/512GB. 自用电脑，2018 款低配升级内存和硬盘，后购入 Apple Care，目前因为电池鼓包换过一次电池
+- ***已卖出*** MacBook Pro (13-inch, 2018) i5-8259U/16GB/512GB. 自用电脑，2018 款低配升级内存和硬盘，后购入 Apple Care，目前因为电池鼓包换过一次电池
 - ***已不使用*** 华硕 N551JK i5-4200H/4+4GB/1TB. 曾经的电脑，已经不再使用
 
 ### 台式机
@@ -183,7 +183,7 @@ A curated list of awesome tools I used.
 
 - <del>Better Comments</del>. 注释着色，因为着色方式不太喜欢，所以不用了
 - <del>Bracket Pair Colorizer</del>. 括号着色。官方支持这个功能了，所以不再用插件了
-- Code Runner
+- <del>Code Runner</del>
 - <del>Code Time</del>. 本地记一下写代码的时间，已经弃用了
 - colorize
 - <del>Color Highlight</del>. 换成上面那个了
@@ -198,6 +198,7 @@ A curated list of awesome tools I used.
 - stylelint
 - Todo Tree
 - WakaTime. 主力记录代码时间. https://wakatime.com/@iwyvi
+- Error Lens
 
 ### 终端
 
@@ -210,11 +211,12 @@ A curated list of awesome tools I used.
 
 ### 编程字体
 
-- Lotion. 目前主要在用这个字体
+- Lotion
 - Isovka ss01. 主力编辑器字体，开启连字。这个字体的特点是很瘦，同样的屏幕大小可以显示更多内容
 - Fira Code. 主力终端字体
 - Cascadia Code. 最近尝试换新花样，将终端字体设为了这个
 - 霞鹜文楷等宽
+- Monaspace Krypton. 目前主要在用这个字体
 
 ### 主题配色
 
@@ -233,14 +235,12 @@ A curated list of awesome tools I used.
 
 ### 命令行
 
+- fnm. node 版本切换
+
 #### homebrew
 
 - neofetch
 - m-cli. 这个几乎没怎么用过
-
-#### npm
-
-- http-server. 静态文件服务器
 
 ### 浏览器
 
@@ -250,13 +250,14 @@ A curated list of awesome tools I used.
 - Firefox
 - Safari
 - ***已不使用*** Vivaldi
-- Arc. 外观很好看，侧栏 tab 也很好用。但是资源占用稍微有点多，<del>而且目前不支持地址栏选择搜索引擎</del>，mac 端主力浏览器
+- Arc. 外观很好看，侧栏 tab 也很好用。但是资源占用稍微有点多，<del>而且目前不支持地址栏选择搜索引擎</del>，Mac 端主力浏览器
+- Stack Next SE. 看起来有潜力的浏览器，只是不怎么更新了
 
 #### 浏览器扩展
 
 - Stylus. 由 Stylish 换过来
   - 百度多栏卡片搜索. 自改样式. https://userstyles.world/style/3156
-  - v2ex 扁平化风格. https://userstyles.org/styles/128987/v2ex
+  - <del>v2ex 扁平化风格</del>. https://userstyles.org/styles/128987/v2ex
   - Tieba - Maverick 2018. https://userstyles.org/styles/124770/tieba-maverick-2018
   - <del>weibo_v6</del>. 这个作者似乎不维护了，也没有在线地址。微博更新了视觉后就不用了
   - 谷歌多栏卡片搜索. 自改样式. https://userstyles.world/style/3155
@@ -265,7 +266,6 @@ A curated list of awesome tools I used.
 - Tampermonkey
 - 京价保
 - <del>SwitchyOmega</del> 代理通过软路由控制
-- v2ex plus
 - <del>Adblock Plus</del>
 - uBlock Origin
 - Octolinker
@@ -273,7 +273,7 @@ A curated list of awesome tools I used.
 - JSON Formatter
 - Wappalyzer. 查看网站技术栈
 - Infinity 新标签页
-- v2ex plus
+- <del>v2ex plus</del>
 - V2EX Polish
 
 还有几个用于开发的插件
@@ -299,6 +299,7 @@ A curated list of awesome tools I used.
 
 - 网易云音乐. 主力音乐播放器，ID：IwYvI
 - 搜狗音乐. 偶尔使用
+- QQ音乐. 偶尔使用
 
 ### 代理
 
@@ -362,7 +363,7 @@ A curated list of awesome tools I used.
 
 ### 笔记
 
-- GoodNotes. 主力笔记
+- GoodNotes
 - Notability. 辅助笔记，用于记录课堂内容
 - Notion. 配合其他端
 - ***已不使用*** Nebo
@@ -371,7 +372,7 @@ A curated list of awesome tools I used.
 
 - 概念画板. 主力绘图，主要用来当作草稿本用
 - ***已不使用*** SketchBook
-- Vectornator
+- ***已不使用*** Vectornator
 - ***已不使用*** Painter
 
 ### 词典
