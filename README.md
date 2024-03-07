@@ -76,16 +76,17 @@ A curated list of awesome tools I used.
 - 水月雨银色飞船. 家里用的有线耳机
 - Redmi Air Dots3. 降噪效果可以，延迟稍高
 
-### 主机
+### 游戏主机
 
 - Switch. 2017年购入，红蓝配色，现在 JoyCon 已经漂移到可以自己玩游戏了
 - PS4 Pro
+- Steam Deck OLED 512G
 
 ### 手柄
 
 - Switch Pro. Switch 主力，左摇杆有点推不到底了，现在喷了 WD-40，目测成功续命了一波. (2021-11) 更换了左侧摇杆的电位器，但是在系统里各个方向都推不倒底，所以还用砂纸打磨了摇杆外的塑料圈 https://www.iwyvi.com/joystick/switch-pro-review/
 - DS4. PS4 主力，<del>加了一个（可能是山寨的 Kontrolfreek）摇杆增高帽</del>
-- hori ngc 手柄. 为了玩大乱斗买的，结果玩大乱斗还是被虐. https://www.iwyvi.com/joystick/hori-ngc-controller-review/
+- ***已卖出*** hori ngc 手柄. 为了玩大乱斗买的，结果玩大乱斗还是被虐. https://www.iwyvi.com/joystick/hori-ngc-controller-review/
 - 八位堂 SF30Pro. 娱乐手柄. https://www.iwyvi.com/joystick/8bitdo-gamepad-review/
 - Steam 手柄.  <del>Windows 主力</del>，自从升级支持蓝牙以后就完美了. https://www.iwyvi.com/joystick/steam-controller-review/
 - 八位堂 Lite 中国红限定.  摇杆改成了十字键，号称永不摇杆漂移的手柄
@@ -96,7 +97,7 @@ A curated list of awesome tools I used.
 
 ### 手机
 
-- iPhone 14 pro 白色 256GB
+- iPhone 14 Pro 白色 256GB
 - ***已卖出*** 小米 10 ultra 黑色 12GB/256GB. 已成为测试机
 - ***已卖出*** 魅族 16s 6GB/128GB. 买了就降价 sad
 - ***已送人*** 一加 3T 6GB/64GB. 用了两年以后电池极差 + 发热严重，期间手动换了一次淘宝上的黑皮电池
@@ -112,7 +113,7 @@ A curated list of awesome tools I used.
 
 - NanoPi R2S. 软路由挂 clash
 - Redmi AX5400. 支持 UU 加速
-- ***已不使用*** Redmi AX5
+- ***已送人*** Redmi AX5
 - ***已不使用*** 荣耀路由X2. 主力路由器，没什么特点吧，稍微有点大
 - ***已不使用*** Au home. 体积很小的一个路由器，支持 5GHz，已经找不到了
 - ***已卖出*** 网易 UU 加速盒. 买来用于主机加速，这样就不需要电脑开加速器了
@@ -314,7 +315,7 @@ A curated list of awesome tools I used.
 - Enpass. 主力密码管理，<del>因为桌面端主要功能免费，所以目前只买了 Android 版，iOS 上手输或者 QQ 发密码（奇怪的操作）</del>. 这个已经改成买断 + 订阅了，不过因为之前买了安卓版，可以绑定账号以后全平台享受服务.
 - Bartender 3. 隐藏 Mac 状态栏多余图标，合买
 - Bartender 4. 合买
-- Mos. 修改鼠标滚动缓动
+- ***已不使用*** Mos. 修改鼠标滚动缓动，改用 Mac Mouse Fix 了
 - LinearMouse. 关闭鼠标加速度
 - ***已不使用*** Cinch. 窗口管理，未授权版
 - Spark. 主力邮件客户端
@@ -322,9 +323,11 @@ A curated list of awesome tools I used.
 - Snipaste. 主要用于贴图
 - Itsycal. 状态栏日历
 - Eagle. 收集素材和作品
-- Wallpaper engine. Steam 版
+- Wallpaper Engine. Steam 版
 - LinearMouse. 移除鼠标加速度
 - Raycast. 主力启动器
+- Mac Mouse Fix. 滚动缓动
+- AltTab. 应用切换器
 
 ## 软件（移动端）
 
@@ -357,7 +360,7 @@ A curated list of awesome tools I used.
 - Chrome
 - Edge. 因为可以和电脑同步，所以偶尔也用用它，移动端不是很好用
 - Safari
-- Arc
+- Arc Search
 
 ## 软件（移动端 / iOS）
 
