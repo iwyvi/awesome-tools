@@ -159,6 +159,7 @@ A curated list of awesome tools I used.
 - 米家显示器挂灯
 - ***已卖出*** Oculus quest 2. 体验还可以，配了贴片眼镜，另外买了三方头带和面罩
 - ***已卖出*** 米家激光测距仪
+- 拓竹 A1 mini. 额外购买了光面打印板、0.2mm 不锈钢喷嘴
 
 ### 汽车
 
@@ -168,6 +169,7 @@ A curated list of awesome tools I used.
 
 - ***已卖出*** Ninebot One A1. 收的二手车，性能还可以，但是不适合上路，准备再出掉
 - 大行 P8. 已改后刹车为永杰 959V
+- BackWave 33 英寸陆地冲浪板
 
 ## 软件（PC）
 
@@ -246,13 +248,13 @@ A curated list of awesome tools I used.
 ### 浏览器
 
 - Chrome. 曾经的主力
-- Microsoft Edge Canary. Chromium 版 edge，意外的好用，<del>选择 canary 版是因为当时只有这个版本，然后一直也没有换成正式版，目前已成为主力浏览器，可以较为方便的多终端同步数据</del>
+- ***已不使用*** Microsoft Edge Canary. Chromium 版 edge，意外的好用，<del>选择 canary 版是因为当时只有这个版本，然后一直也没有换成正式版，目前已成为主力浏览器，可以较为方便的多终端同步数据</del>
 - Microsoft Edge. 主力浏览器，不用 Canary 版本是因为某次更新后，只要打开网页就卡好几秒
 - Firefox
 - Safari
 - ***已不使用*** Vivaldi
 - Arc. 外观很好看，侧栏 tab 也很好用。但是资源占用稍微有点多，<del>而且目前不支持地址栏选择搜索引擎</del>，Mac 端主力浏览器
-- Stack Next SE. 看起来有潜力的浏览器，只是不怎么更新了
+- ***已不使用*** Stack Next SE. 看起来有潜力的浏览器，只是已经不更新了
 
 #### 浏览器扩展
 
@@ -285,14 +287,14 @@ A curated list of awesome tools I used.
 
 ![双拼布局](images/shuangpin-schema.jpg)
 
-- 搜狗输入法. <del>Mac 主力输入法，</del>使用原因是 Mac 上能支持自定义双拼方案的输入法选择很少（搜狗是通过覆盖默认方案实现的）
-- 手心输入法. <del>Windows 主力输入法</del>
+- ***已删除*** 搜狗输入法. <del>Mac 主力输入法，</del>使用原因是 Mac 上能支持自定义双拼方案的输入法选择很少（搜狗是通过覆盖默认方案实现的）
+- ***已删除*** 手心输入法. <del>Windows 主力输入法</del>
 - ***已删除*** 落格输入法. 感觉和我的输入习惯有点八字不合
-- 鼠须管. 主力输入法，已经把自定义双拼布局转了过来。缺点：中英文混输和双拼 tab 辅助形码的功能不支持，缺少一些新词，不支持中英文混输。[查看配置](https://github.com/iwyvi/rime-config)
+- 鼠须管和小狼毫. 主力输入法，已经把自定义双拼布局转了过来。缺点：中英文混输和双拼 tab 辅助形码的功能不支持，缺少一些新词，不支持中英文混输。[查看配置](https://github.com/iwyvi/rime-config)
 
 ### 笔记
 
-- Typora. <del>偶尔写写 markdown 使用，</del>自从开始收费以后就不用了
+- ***已删除*** Typora. <del>偶尔写写 markdown 使用，</del>自从开始收费以后就不用了
 - Notion. 目前主力笔记
 - Obsidian
 
@@ -328,6 +330,7 @@ A curated list of awesome tools I used.
 - Raycast. 主力启动器
 - Mac Mouse Fix. 滚动缓动
 - AltTab. 应用切换器
+- ActivityWatch. 记录操作时间
 
 ## 软件（移动端）
 
