@@ -72,9 +72,15 @@ A curated list of awesome tools I used.
 - ***已不使用*** 酷我 K3. <del>主力出门使用的蓝牙耳机，</del>选择的原因是非入耳式 + 便宜
 - ***已退货*** QCY T1S. 入耳式戴起来有点难受，信号有时会断
 - ***已不使用*** Beats Wireless Solo. 买电脑送的，夹头，超级紧。目前吃灰
-- realme Buds Air. 白色，外观高仿 AirPods，做工一般，游戏模式延迟尚可，主力出门耳机
-- 水月雨银色飞船. 家里用的有线耳机
+- realme Buds Air. 白色，外观高仿 AirPods，做工一般，游戏模式延迟尚可
+- ***已扔*** 水月雨银色飞船. 家里用的有线耳机。双耳音量不均衡，振膜保护被弄坏了，所以扔掉了
 - Redmi Air Dots3. 降噪效果可以，延迟稍高
+- JBL Q TWS. 支持 2.4GHz 的接收器，基本没有延迟，用于玩游戏。主力出门耳机
+
+### 音箱
+
+- 漫步者 N300. 整体体验还可以，切换模式只支持手动触摸按钮，所以只当电脑音箱，不连蓝牙使用
+- 小爱音箱 Play 增强版. 平时用于蓝牙连接听歌
 
 ### 游戏主机
 
@@ -160,6 +166,7 @@ A curated list of awesome tools I used.
 - ***已卖出*** Oculus quest 2. 体验还可以，配了贴片眼镜，另外买了三方头带和面罩
 - ***已卖出*** 米家激光测距仪
 - 拓竹 A1 mini. 额外购买了光面打印板、0.2mm 不锈钢喷嘴
+- 大疆 Osme Mobile 6 暗岩灰. 二手购入，额外配了一个手机磁吸连接器
 
 ### 汽车
 
@@ -261,7 +268,7 @@ A curated list of awesome tools I used.
 - Stylus. 由 Stylish 换过来
   - 百度多栏卡片搜索. 自改样式. https://userstyles.world/style/3156
   - <del>v2ex 扁平化风格</del>. https://userstyles.org/styles/128987/v2ex
-  - Tieba - Maverick 2018. https://userstyles.org/styles/124770/tieba-maverick-2018
+  - <del>Tieba - Maverick 2018</del>. https://userstyles.org/styles/124770/tieba-maverick-2018
   - <del>weibo_v6</del>. 这个作者似乎不维护了，也没有在线地址。微博更新了视觉后就不用了
   - 谷歌多栏卡片搜索. 自改样式. https://userstyles.world/style/3155
 - Session Buddy. 用于存标签页，可是我本身不怎么喜欢开大量标签页，所以这个没怎么用
@@ -271,7 +278,7 @@ A curated list of awesome tools I used.
 - <del>SwitchyOmega</del> 代理通过软路由控制
 - <del>Adblock Plus</del>
 - uBlock Origin
-- Octolinker
+- <del>Octolinker</del>
 - <del>Octotree</del> 这个不太好用
 - JSON Formatter
 - Wappalyzer. 查看网站技术栈
