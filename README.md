@@ -167,6 +167,8 @@ A curated list of awesome tools I used.
 - ***已卖出*** 米家激光测距仪
 - 拓竹 A1 mini. 额外购买了光面打印板、0.2mm 不锈钢喷嘴
 - 大疆 Osme Mobile 6 暗岩灰. 二手购入，额外配了一个手机磁吸连接器
+- 大疆 Neo 畅飞套装.
+- 星特朗 80EQpro
 
 ### 汽车
 
