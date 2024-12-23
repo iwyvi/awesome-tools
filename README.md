@@ -103,7 +103,8 @@ A curated list of awesome tools I used.
 
 ### 手机
 
-- iPhone 14 Pro 白色 256GB
+- iPhone 16 Pro 沙漠金 256GB
+- ***已卖出*** iPhone 14 Pro 白色 256GB
 - ***已卖出*** 小米 10 ultra 黑色 12GB/256GB. 已成为测试机
 - ***已卖出*** 魅族 16s 6GB/128GB. 买了就降价 sad
 - ***已送人*** 一加 3T 6GB/64GB. 用了两年以后电池极差 + 发热严重，期间手动换了一次淘宝上的黑皮电池
@@ -156,6 +157,7 @@ A curated list of awesome tools I used.
 - 小米磁吸充电宝. 带充电底座，比较好看，但是给 iPhone 无线充电时间长了会很烫
 - 小米 55W 无线充电底座. 给小米手机充电还行，给 iPhone 充电似乎只有 5W，连风扇都基本上不工作
 - CUKTECH 67W 三口
+- CUKTECH 120W 三口
 
 ### 杂项
 
@@ -167,7 +169,9 @@ A curated list of awesome tools I used.
 - ***已卖出*** 米家激光测距仪
 - 拓竹 A1 mini. 额外购买了光面打印板、0.2mm 不锈钢喷嘴
 - 大疆 Osme Mobile 6 暗岩灰. 二手购入，额外配了一个手机磁吸连接器
-- 大疆 Neo 畅飞套装.
+- 大疆 Neo 畅飞套装
+- 大疆飞行眼镜 N3
+- 大疆 FPV 遥控器 3
 - 星特朗 80EQpro
 
 ### 汽车
