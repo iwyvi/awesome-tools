@@ -10,7 +10,7 @@ A curated list of awesome tools I used.
 ### 笔记本
 
 - MacBoox Pro (14-inch, 2021) M1 Pro/32GB/1TB. 公司电脑
-- ***已卖出*** MacBook Pro (13-inch, 2018) i5-8259U/16GB/512GB. 自用电脑，2018 款低配升级内存和硬盘，后购入 Apple Care，目前因为电池鼓包换过一次电池
+- ***已回收*** MacBook Pro (13-inch, 2018) i5-8259U/16GB/512GB. 自用电脑，2018 款低配升级内存和硬盘，后购入 Apple Care，目前因为电池鼓包换过一次电池
 - ***已不使用*** 华硕 N551JK i5-4200H/4+4GB/1TB. 曾经的电脑，已经不再使用
 
 ### 台式机
@@ -48,7 +48,7 @@ A curated list of awesome tools I used.
 - 山泽 Type-C 转 DP 线. 用于连接那台 4K 显示器，可以到 60HZ。<del>存在的问题是少数时候显示器上不显示内容，需要重新插拔线或者开关显示器才能正常，不知道是哪一方的问题</del>（目前没有遇到过这个问题了）
 - ***已退货*** 戴尔 DA300. 退货原因：DP接口在我的 4K 显示器上不显示东西
 - ***找不到了*** 谷歌音频转换器. 用于给魅族 16s 转有线耳机，效果一般，（据说）电话时对方有杂音
-- 网易智造网线转换器. 购于闲鱼
+- ***已不使用*** 网易智造网线转换器. 购于闲鱼
 
 ### 键盘
 
@@ -60,7 +60,7 @@ A curated list of awesome tools I used.
 ### 鼠标
 
 - 雷蛇那伽梵蛇进化版. 因为原来的微动双击了，换了左右键的微动，TTC 防尘金
-- 雷蛇巴塞利斯蛇V2
+- 雷蛇巴塞利斯蛇V2. 左侧横向滚轮微动无效了，还没有修
 - ***已坏*** 雷蛇那伽梵蛇 2014. 二手鼠标，侧键不怎么舒服，右键一直不太舒服，自己换过两次微动
 - ***已不使用*** 雷蛇炼狱蝰蛇. 家里使用
 - ***已不使用*** ThinkPad 无线鼠标. 实习发的，已经送人
@@ -74,7 +74,7 @@ A curated list of awesome tools I used.
 - ***已不使用*** Beats Wireless Solo. 买电脑送的，夹头，超级紧。目前吃灰
 - realme Buds Air. 白色，外观高仿 AirPods，做工一般，游戏模式延迟尚可
 - ***已扔*** 水月雨银色飞船. 家里用的有线耳机。双耳音量不均衡，振膜保护被弄坏了，所以扔掉了
-- Redmi Air Dots3. 降噪效果可以，延迟稍高
+- ***已回收*** Redmi Air Dots3. 降噪效果可以，延迟稍高
 - JBL Q TWS. 支持 2.4GHz 的接收器，基本没有延迟，用于玩游戏。主力出门耳机
 
 ### 音箱
@@ -86,7 +86,7 @@ A curated list of awesome tools I used.
 
 - Switch. 2017年购入，红蓝配色，现在 JoyCon 已经漂移到可以自己玩游戏了
 - PS4 Pro
-- Steam Deck OLED 512G
+- ***已卖出*** Steam Deck OLED 512G
 
 ### 手柄
 
@@ -104,16 +104,16 @@ A curated list of awesome tools I used.
 ### 手机
 
 - iPhone 16 Pro 沙漠金 256GB
-- ***已卖出*** iPhone 14 Pro 白色 256GB
-- ***已卖出*** 小米 10 ultra 黑色 12GB/256GB. 已成为测试机
-- ***已卖出*** 魅族 16s 6GB/128GB. 买了就降价 sad
+- ***已回收*** iPhone 14 Pro 白色 256GB
+- ***已回收*** 小米 10 ultra 黑色 12GB/256GB. 已成为测试机
+- ***已回收*** 魅族 16s 6GB/128GB. 买了就降价 sad
 - ***已送人*** 一加 3T 6GB/64GB. 用了两年以后电池极差 + 发热严重，期间手动换了一次淘宝上的黑皮电池
 - ***已不使用*** 联想乐檬 K3 Note 2GB/16GB
 - ***已不使用*** 诺基亚 Lumia 525. 第一款手机，改机型升到 wp10
 
 ### 平板
 
-- ***已卖出*** iPad Air 2019 64GB
+- ***已回收*** iPad Air 2019 64GB
 - ***已扔*** 昂达 v820W. 目前已经变砖，因为某次重置系统后电源驱动挂了充不进去电，然后现在没电开不了机了
 
 ### 路由器
@@ -161,13 +161,13 @@ A curated list of awesome tools I used.
 
 ### 杂项
 
-- ***已卖出*** Apple Pencil 一代. 略吃灰
+- ***已回收*** Apple Pencil 一代. 略吃灰
 - ***已不使用*** 高漫 1060PRO 数位板. 效果极差，当时买来只是为了体验一下数位板什么感觉，然后就一直吃灰了
 - Acasis 采集卡. 效果较差，偏色
 - 米家显示器挂灯
 - ***已卖出*** Oculus quest 2. 体验还可以，配了贴片眼镜，另外买了三方头带和面罩
 - ***已卖出*** 米家激光测距仪
-- 拓竹 A1 mini. 额外购买了光面打印板、0.2mm 不锈钢喷嘴
+- 拓竹 A1 mini. 额外购买了光面打印板、低温打印板、0.2mm 不锈钢喷嘴
 - 大疆 Osme Mobile 6 暗岩灰. 二手购入，额外配了一个手机磁吸连接器
 - 大疆 Neo 畅飞套装
 - 大疆飞行眼镜 N3
@@ -176,7 +176,7 @@ A curated list of awesome tools I used.
 
 ### 汽车
 
-- 小鹏 P5 510E
+- 小鹏 P5 510E 星湖灰
 
 ### 出行
 
@@ -219,8 +219,8 @@ A curated list of awesome tools I used.
 ### 终端
 
 - iTerm2. <del>主力终端</del>
-- Hyper. 偶尔看看更新得怎么样了
-- eDex-UI. 用于偶尔装逼用
+- ***暂不使用*** Hyper. 偶尔看看更新得怎么样了
+- ***暂不使用*** eDex-UI. 用于偶尔装逼用
 - Warp. 体验感觉还不错，已成为主力终端
 
 - zsh + <del>oh-my-zsh</del> + starship
@@ -277,10 +277,10 @@ A curated list of awesome tools I used.
   - <del>Tieba - Maverick 2018</del>. https://userstyles.org/styles/124770/tieba-maverick-2018
   - <del>weibo_v6</del>. 这个作者似乎不维护了，也没有在线地址。微博更新了视觉后就不用了
   - 谷歌多栏卡片搜索. 自改样式. https://userstyles.world/style/3155
-- Session Buddy. 用于存标签页，可是我本身不怎么喜欢开大量标签页，所以这个没怎么用
+- <del>Session Buddy</del> 用于存标签页，可是我本身不怎么喜欢开大量标签页，所以这个没怎么用
 - FireShot. 网页截图
 - Tampermonkey
-- 京价保
+- <del>京价保</del>
 - <del>SwitchyOmega</del> 代理通过软路由控制
 - <del>Adblock Plus</del>
 - uBlock Origin
@@ -328,10 +328,9 @@ A curated list of awesome tools I used.
 只列出了已购入正版或有免费版的软件
 
 - Enpass. 主力密码管理，<del>因为桌面端主要功能免费，所以目前只买了 Android 版，iOS 上手输或者 QQ 发密码（奇怪的操作）</del>. 这个已经改成买断 + 订阅了，不过因为之前买了安卓版，可以绑定账号以后全平台享受服务.
-- Bartender 3. 隐藏 Mac 状态栏多余图标，合买
-- Bartender 4. 合买
+- ***已不使用*** Bartender 3. 隐藏 Mac 状态栏多余图标，合买
+- ***已不使用*** Bartender 4. 合买
 - ***已不使用*** Mos. 修改鼠标滚动缓动，改用 Mac Mouse Fix 了
-- LinearMouse. 关闭鼠标加速度
 - ***已不使用*** Cinch. 窗口管理，未授权版
 - Spark. 主力邮件客户端
 - SlowQuitApps. 防止 Cmd + Q 直接退出应用
@@ -396,13 +395,18 @@ A curated list of awesome tools I used.
 
 ### 词典
 
-- 欧路词典
+- ***已不使用*** 欧路词典
 
 ### 天气
 
-- 我的天气
-- 几何天气
+- ***已不使用*** 我的天气
+- ***已不使用*** 几何天气
 - 彩云天气 Pro
+
+### 输入法
+
+- 微信输入法. 主力输入法
+- 百度输入法
 
 ### 开发相关
 
@@ -440,9 +444,10 @@ A curated list of awesome tools I used.
 - 淘宝 88VIP
 - ***已过期*** 迅雷年费超级会员. 主要用于迅雷快鸟，将 300M 网升级为 500M，但是最近快鸟没有效果了
 - ***已过期*** 联通 PLUS 白银会员. 升级 5G 速率，每月可以兑换会员
-- 小米有品 UP 会员.
+- ***已过期*** 小米有品 UP 会员.
 - 网易严选 Pro 会员. 之前一次活动白嫖的，基本上没买过东西
 - iCloud 50G 订阅
 - ***已过期*** QQ 音乐会员，联通 PLUS 兑换
 - 一生足迹订阅
 - 熊猫吃短信订阅
+- Loon
