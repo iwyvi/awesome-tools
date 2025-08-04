@@ -148,14 +148,14 @@ A curated list of awesome tools I used.
 
 ### 充电头和移动电源
 
-- 联想口红电源 65w. 最老的那个版本，略微有点啸叫
+- 联想口红电源 65w. 最老的那个版本，略微有点啸叫，在柜子里吃灰
 - 小米 Type-C 65w. 可折叠插脚， 放在公司给手机充电
 - 摩米士 18w. 支持 PD 和 PE 协议
 - ***已退货*** 努比亚氘锋 65W 单C口. 我拿到的这个使用 pd 协议充电时总是 15 分钟左右就断连，需要重新插拔
 - 小米移动电源3 高配版. 20000mAh，支持各种快充协议，出门可以给电脑充电，还可以当 HUB，虽然几乎没用过这个功能
 - 紫米折叠氮化镓充电器 20W. 给 iPhone 充电使用
 - 小米磁吸充电宝. 带充电底座，比较好看，但是给 iPhone 无线充电时间长了会很烫
-- 小米 55W 无线充电底座. 给小米手机充电还行，给 iPhone 充电似乎只有 5W，连风扇都基本上不工作
+- ***已不使用*** 小米 55W 无线充电底座. 给小米手机充电还行，给 iPhone 充电似乎只有 5W，连风扇都基本上不工作
 - CUKTECH 67W 三口
 - CUKTECH 120W 三口
 
@@ -192,6 +192,8 @@ A curated list of awesome tools I used.
 - ***暂不使用*** Android Studio
 - ***暂不使用*** IntelliJ IDEA
 - ***暂不使用*** CotEditor. 据说很快，用来打开一些小文件
+- Zed. 观察中
+- Cursor. 主力编辑器
 
 #### 扩展
 
@@ -268,6 +270,8 @@ A curated list of awesome tools I used.
 - ***已不使用*** Vivaldi
 - Arc. 外观很好看，侧栏 tab 也很好用。但是资源占用稍微有点多，<del>而且目前不支持地址栏选择搜索引擎</del>，Mac 端主力浏览器
 - ***已不使用*** Stack Next SE. 看起来有潜力的浏览器，只是已经不更新了
+- Zen. 基于 Firefox 的浏览器，界面仿照 Arc
+- Fellou. AI 浏览器，偶尔用于查资料
 
 #### 浏览器扩展
 
@@ -321,7 +325,7 @@ A curated list of awesome tools I used.
 
 - ***已不使用*** V2rayU. 由于机场协议是 v2ray 所以一直在用这个，目前已转为 ClashX
 - ClashX
-- Clash for Windows
+- ***已不使用*** Clash for Windows
 
 ### 杂项
 
@@ -342,7 +346,7 @@ A curated list of awesome tools I used.
 - Raycast. 主力启动器
 - Mac Mouse Fix. 滚动缓动
 - AltTab. 应用切换器
-- ActivityWatch. 记录操作时间
+- ***已不使用*** ActivityWatch. 记录操作时间
 
 ## 软件（移动端）
 
@@ -377,8 +381,6 @@ A curated list of awesome tools I used.
 - Safari
 - Arc Search
 
-## 软件（移动端 / iOS）
-
 ### 笔记
 
 - GoodNotes
@@ -411,13 +413,14 @@ A curated list of awesome tools I used.
 ### 开发相关
 
 - PPHub. GitHub 第三方客户端，很纯净
-- iSH. 终端
+- ***已不使用*** iSH. 终端
+- Loon
 
 ## 服务 / 会员 / 订阅
 
 ### 免费
 
-- OneDrive. 主力网盘，同步照片
+- OneDrive. <del>主力网盘，</del>同步照片，免费容量要满了，已不自动同步
 - 坚果云. 存一些配置文件
 - 百度网盘
 - iCloud
@@ -432,7 +435,7 @@ A curated list of awesome tools I used.
 - ***已过期*** Switch Online
 - ***已过期*** PS4 Plus 港服
 - 网易 UU 加速器会员
-- 爱奇艺白金会员
+- 爱奇艺白金会员. 父母看电视使用
 - 京东 plus 会员
 - bilibili 大会员
 - ***已过期*** v2ss
@@ -446,8 +449,7 @@ A curated list of awesome tools I used.
 - ***已过期*** 联通 PLUS 白银会员. 升级 5G 速率，每月可以兑换会员
 - ***已过期*** 小米有品 UP 会员.
 - 网易严选 Pro 会员. 之前一次活动白嫖的，基本上没买过东西
-- iCloud 50G 订阅
+- iCloud 200G 订阅
 - ***已过期*** QQ 音乐会员，联通 PLUS 兑换
 - 一生足迹订阅
 - 熊猫吃短信订阅
-- Loon
