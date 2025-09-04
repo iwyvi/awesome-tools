@@ -158,6 +158,7 @@ A curated list of awesome tools I used.
 - ***已不使用*** 小米 55W 无线充电底座. 给小米手机充电还行，给 iPhone 充电似乎只有 5W，连风扇都基本上不工作
 - CUKTECH 67W 三口
 - CUKTECH 120W 三口
+- CUKTECH 10 号超级电能充 Ultra. 可以显示功率
 
 ### 杂项
 
@@ -173,6 +174,7 @@ A curated list of awesome tools I used.
 - 大疆飞行眼镜 N3
 - 大疆 FPV 遥控器 3
 - 星特朗 80EQpro
+- 举目小红帽二代 Ultra 10x25. 单筒望远镜，清晰度和可视范围比想象中得大不少
 
 ### 汽车
 
